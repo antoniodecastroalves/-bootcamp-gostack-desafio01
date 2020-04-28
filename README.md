@@ -1,4 +1,4 @@
-# -bootcamp-gostack-desafio01
+# -bootcamp-gostack-desafio
 
 Desafio Planejamento dos meus estudos
 
